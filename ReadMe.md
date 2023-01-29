@@ -3,6 +3,8 @@
 
 ***
 
+**You can view the live site here: [www.theladeli.github.io/password-generator](https://theladeli.github.io/password-generator/)**
+
 ## Breakdown
 1. First I created the JS code for it (saving the values to variables and logging it to console)
 2. Next I created the basic HTML for it
