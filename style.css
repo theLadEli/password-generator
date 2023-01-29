@@ -1,7 +1,7 @@
 body {
     text-align: center;
     background-color: #f8f8f8;
-    padding: 35vh 35vw;
+    padding: 25vh 35vw;
 }
 
 h1 {
@@ -69,3 +69,25 @@ a {
 [contenteditable] {
     outline: 0px solid transparent;
   }
+
+footer {
+    margin-top: 10vh;
+}
+
+/* Mobile Responsiveness */
+@media only screen and (max-width: 600px) {
+
+    body {
+        padding: 25vh 5vw;
+    }
+
+    .copy {
+        padding: 15px 28px;
+    }
+    
+    h1 {
+        font-size: 30px;
+    }
+
+
+}
